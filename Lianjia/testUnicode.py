@@ -1,0 +1,4 @@
+# coding=utf-8
+#
+code = u'\u5730\u94c1\u8fb9\u5357\u5317\u4e24\u5c45\uff0c\u6ee1\u4e94\u552f\u4e00\u7a0e\u8d39\u5c11'
+print(code)
